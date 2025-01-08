@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://clhgie85iqswr"]
+
+[ext_resource type="Script" path="res://scripts/player/player.gd" id="1_l4134"]
+
+[node name="Player" type="ColorRect"]
+custom_minimum_size = Vector2(25, 25)
+script = ExtResource("1_l4134")
